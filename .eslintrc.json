@@ -1,0 +1,8 @@
+module.exports = {
+    plugins: ['jest']
+  },
+  jest: {
+    testEnvironment: 'node',
+    testPathIgnorePatterns: ['main.test.js']
+  }
+};

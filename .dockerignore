@@ -1,0 +1,17 @@
+node_modules/
+.git/
+.npm/
+.gitignore
+README.md
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+coverage/
+tests/
+*.test.js
+.venv/
+venv/
+__pycache__/
+*.pyc
